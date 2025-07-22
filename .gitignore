@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller build files
+*.spec
+/build/
+/dist/
+
+# Application-downloaded dependencies
+/bin/ffmpeg.exe
+/bin/yt-dlp.exe
+/bin/ffmpeg.zip

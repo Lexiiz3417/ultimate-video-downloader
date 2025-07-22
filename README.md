@@ -17,7 +17,7 @@ A simple and modern desktop application for downloading videos and audio from hu
 
 ## 🚀 Installation
 
-1.  Go to the **[Releases](URL_TO_YOUR_GITHUB_RELEASES_PAGE)** page.
+1.  Go to the **[Releases](https://github.com/Lexiiz3417/ultimate-video-downloader/releases)** page.
 2.  Download the latest `.exe` file from the "Assets" section.
 3.  Save `downloader.exe` anywhere and run it. No installation is required.
 

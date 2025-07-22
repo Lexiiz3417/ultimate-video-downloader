@@ -1,6 +1,6 @@
 # Ultimate Video Downloader
 
-![App Screenshot](URL_TO_YOUR_APP_SCREENSHOT)
+![App Screenshot](https://github.com/Lexiiz3417/ultimate-video-downloader/blob/main/image.png)
 
 A simple and modern desktop application for downloading videos and audio from hundreds of websites. Built with Python, CustomTkinter, and powered by `yt-dlp`.
 
